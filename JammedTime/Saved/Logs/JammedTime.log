@@ -1,16 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 12/13/25 04:46:43
 =======
 <<<<<<< HEAD
 ﻿Log file open, 12/12/25 13:05:28
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 1a9f541 (Log Update)
 ﻿Log file open, 12/12/25 05:42:43
 =======
 ﻿Log file open, 12/08/25 21:29:45
 >>>>>>> f592b33 (Log Update)
+<<<<<<< HEAD
 >>>>>>> 1a9f541 (Log Update)
 >>>>>>> 4b649b3 (Log Update)
+=======
+>>>>>>> 1a9f541 (Log Update)
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -19,7 +25,14 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=11084)
+=======
+LogWindows: Started CrashReportClient (pid=20600)
+=======
+LogWindows: Started CrashReportClient (pid=141860)
+>>>>>>> f592b33 (Log Update)
+>>>>>>> 1a9f541 (Log Update)
 LogWindows: Enabling Tpause support
 =======
 <<<<<<< HEAD
@@ -48,6 +61,7 @@ LogCsvProfiler: Display: Metadata set : os="Windows 11 (25H2) [10.0.26200.7462] 
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i7-12650H"
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.6691] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz"
 =======
@@ -60,6 +74,11 @@ LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core
 >>>>>>> f592b33 (Log Update)
 >>>>>>> 1a9f541 (Log Update)
 >>>>>>> 4b649b3 (Log Update)
+=======
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.7171] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13650HX"
+>>>>>>> f592b33 (Log Update)
+>>>>>>> 1a9f541 (Log Update)
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
@@ -134,12 +153,16 @@ LogConfig: Display: Loading Windows ini files took 0.04 seconds
 LogConfig: Display: Loading Linux ini files took 0.04 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
 >>>>>>> f592b33 (Log Update)
+<<<<<<< HEAD
+>>>>>>> 1a9f541 (Log Update)
+=======
 >>>>>>> 1a9f541 (Log Update)
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
 LogPluginManager: Mounting Engine plugin Fab
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogAssetRegistry: Display: Asset registry cache read as 19.4 MiB from W:/My Documents/Unreal Projects/DKCFinalProject/CGT245WEBEJAMMING/JammedTime/Intermediate/CachedAssetRegistry_0.bin
 LogConfig: Display: Loading LinuxArm64 ini files took 0.40 seconds
@@ -148,6 +171,8 @@ LogConfig: Display: Loading Linux ini files took 0.40 seconds
 <<<<<<< HEAD
 >>>>>>> 1a9f541 (Log Update)
 >>>>>>> 4b649b3 (Log Update)
+=======
+>>>>>>> 1a9f541 (Log Update)
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin EnhancedInput
@@ -620,9 +645,46 @@ LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting Engine plugin ConcertSyncClient
 LogPluginManager: Mounting Engine plugin ConcertSyncCore
+<<<<<<< HEAD
+=======
+=======
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin DeformerGraph
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin LiveLink
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin AnalyticsBlueprintLibrary
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+>>>>>>> f592b33 (Log Update)
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Fab/Content/' mounted to '/Fab/'
+>>>>>>> 1a9f541 (Log Update)
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Fab/Content/' mounted to '/Fab/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -668,6 +730,8 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUt
 <<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
 =======
+=======
+>>>>>>> 1a9f541 (Log Update)
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
@@ -761,6 +825,50 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/MDLImporter/Content/' mounted to '/MDLImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/RigVM/Content/' mounted to '/RigVM/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/FabLauncher/Content/' mounted to '/FabLauncher/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/DeformerGraph/Content/' mounted to '/DeformerGraph/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+>>>>>>> f592b33 (Log Update)
+>>>>>>> 1a9f541 (Log Update)
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
 =======
 <<<<<<< HEAD
@@ -847,6 +955,7 @@ LogInit: Net CL: 27405482
 LogInit: OS: Windows 11 (25H2) [10.0.26200.7462] (), CPU: 12th Gen Intel(R) Core(TM) i7-12650H, GPU: Intel(R) UHD Graphics
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (22H2) [10.0.19045.6691] (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1080
 =======
 <<<<<<< HEAD
@@ -856,11 +965,16 @@ LogInit: OS: Windows 11 (24H2) [10.0.26100.7171] (), CPU: 13th Gen Intel(R) Core
 >>>>>>> f592b33 (Log Update)
 >>>>>>> 1a9f541 (Log Update)
 >>>>>>> 4b649b3 (Log Update)
+=======
+LogInit: OS: Windows 11 (24H2) [10.0.26100.7171] (), CPU: 13th Gen Intel(R) Core(TM) i7-13650HX, GPU: Intel(R) UHD Graphics
+>>>>>>> f592b33 (Log Update)
+>>>>>>> 1a9f541 (Log Update)
 LogInit: Compiled (64-bit): Nov  3 2023 16:09:16
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.36.32537.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE5+Release-5.3
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogInit: Command Line: 
 =======
@@ -870,6 +984,9 @@ LogInit: Command Line: -AUTH_LOGIN=unused -AUTH_PASSWORD=03a16d87c51842faae5a4a8
 LogInit: Command Line: -AUTH_LOGIN=unused -AUTH_PASSWORD=1713469cc3cf4cab8f2c9a4cf992ff5e -AUTH_TYPE=exchangecode -epicapp=UE_5.3 -epicenv=Prod -EpicPortal -epicusername=Jixalien -epicuserid=6e9ff73a4d5d4c0b8bb445b660490754 -epiclocale=en -epicsandboxid=ue
 >>>>>>> 1a9f541 (Log Update)
 >>>>>>> 4b649b3 (Log Update)
+=======
+LogInit: Command Line: -AUTH_LOGIN=unused -AUTH_PASSWORD=1713469cc3cf4cab8f2c9a4cf992ff5e -AUTH_TYPE=exchangecode -epicapp=UE_5.3 -epicenv=Prod -EpicPortal -epicusername=Jixalien -epicuserid=6e9ff73a4d5d4c0b8bb445b660490754 -epiclocale=en -epicsandboxid=ue
+>>>>>>> 1a9f541 (Log Update)
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.3/Engine/Binaries/Win64/
 LogInit: Allocator: Mimalloc
 LogInit: Installed Engine Build: 1
@@ -914,6 +1031,7 @@ LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06
 <<<<<<< HEAD
 LogDevObjectVersion:   Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
 LogDevObjectVersion:   Dev-Optimus (93EDE1AA-10CA-7375-4DF9-8A2849B157A0): 8
+<<<<<<< HEAD
 LogCoreRedirects: AddRedirect(C:/Users/maxki/Documents/GitHub/CGT245WEBEJAMMING/JammedTime/Saved/Config/WindowsEditor/MDLImporter.ini) has substring redirect /DatasmithContent/Materials/MDL/, these are very slow and should be resolved as soon as possible!
 =======
 <<<<<<< HEAD
@@ -7626,5 +7744,8 @@ LogInit: Object subsystem initialized
 [2025.12.10-04.58.46:302][  0]LogDerivedDataCache: C:/Users/vande/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.320 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3685 files in 5129 folders with total size 4667 MiB.
 [2025.12.10-05.58.45:490][  0]LogDerivedDataCache: C:/Users/vande/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.508 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3685 files in 5129 folders with total size 4667 MiB.
 >>>>>>> f592b33 (Log Update)
+<<<<<<< HEAD
 >>>>>>> 1a9f541 (Log Update)
 >>>>>>> 4b649b3 (Log Update)
+=======
+>>>>>>> 1a9f541 (Log Update)
